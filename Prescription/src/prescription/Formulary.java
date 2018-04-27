@@ -51,7 +51,7 @@ public class Formulary extends javax.swing.JFrame {
 
         jButton1.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         jButton1.setText("SEARCH");
-        getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 260, -1, -1));
+        getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 260, 140, 40));
 
         jmediciine.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         getContentPane().add(jmediciine, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 150, 170, 30));

@@ -107,7 +107,7 @@ public class SelectMedication extends javax.swing.JFrame {
         // TODO add your handling code here:
         NewMedication nm = new NewMedication();
         nm.setVisible(true);
-        this.dospose();
+        this.dispose();
     }//GEN-LAST:event_jButton5ActionPerformed
 
 

@@ -16,6 +16,9 @@ public class Prescription {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        SignIn1 s = new SignIn1();
+        s.setVisible(true);
+        
     }
     
 }
